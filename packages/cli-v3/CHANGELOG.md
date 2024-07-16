@@ -1,5 +1,13 @@
 # trigger.dev
 
+## 3.0.0-beta.49
+
+### Patch Changes
+
+- 9971de6a1: Increase span attribute value length limit to 2048
+- Updated dependencies [d934feb02]
+  - @trigger.dev/core@3.0.0-beta.49
+
 ## 3.0.0-beta.48
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # internal-platform
 
+## 3.0.0-beta.49
+
+### Patch Changes
+
+- d934feb02: Add more package exports that can be used from the web app
+
 ## 3.0.0-beta.48
 
 ## 3.0.0-beta.47
